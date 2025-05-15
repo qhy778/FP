@@ -104,4 +104,4 @@ This repo is based on [OSTrack](https://github.com/botaoye/OSTrack) and [PyTrack
 
 
 ## Contact
-If you have any question, feel free to email huayit1@uci.edu.
+If you have any question, feel free to email quhaoyu7077@163.com.
