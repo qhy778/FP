@@ -32,12 +32,12 @@ Google Driver
 ### Installation
 Create and activate a conda environment:
 ```
-conda create -n DCPT python=3.8
-conda activate DCPT
+conda create -n FP python=3.9
+conda activate FP
 ```
 Install the required packages:
 ```
-bash install.sh
+pip install -r requirements.txt
 ```
 
 ### Data Preparation
