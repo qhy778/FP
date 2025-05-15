@@ -16,10 +16,10 @@ Google Driver
 
 
 ## Results
-### UAVDark135, NAT2021
+### UAVTrack112, UAV20L, UAV123
 <left><img width="100%" alt="" src="assets/results_1.png"/></left>
 
-### DarkTrack2021, NAT2021L
+### UAVTrack112_L, DTB70
 <left><img width="100%" alt="" src="assets/results_2.png"/></left>
 <left><img width="100%" alt="" src="assets/results_3.png"/></left>
 
