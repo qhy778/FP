@@ -1,9 +1,5 @@
 # FP
 
-[Models & Raw Results](https://pan.baidu.com/s/1fWDA6ccLcoxSEQK9X2A5Jg?pwd=0dof)
-Baidu Driver: 0dof
-| [Training Dataset Labels](https://pan.baidu.com/s/1hS5xEUbycB-m1o6brGRLyw?pwd=v2nf)
-Baidu Driver: v2nf
 
 [Models & Raw Results](https://drive.google.com/drive/folders/11XOu-ZKYNaJfPoK1e7hb1Npy5UoV38Fl?usp=sharing)
 Google Driver
