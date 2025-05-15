@@ -42,27 +42,7 @@ bash install.sh
 
 ### Data Preparation
 Put the tracking datasets in ./data. It should look like this:
-   ```
-   ${PROJECT_ROOT}
-    -- data
-        -- bdd100k_night
-            |-- images
-            |-- annotations
-            ...
-        -- ExDark
-            |-- images
-            |-- annotations
-        -- shift_night
-            |-- 0b3d-e686
-            |-- 0b4d-d96f
-            ...
-        -- trackingnet
-            |-- TRAIN_0
-            |-- TRAIN_1
-            ...
-            |-- TRAIN_11
-            |-- TEST
-   ```
+ 
 
 ### Path Setting
 Run the following command to set paths:
