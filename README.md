@@ -103,16 +103,5 @@ python tracking/profile_model.py --script DCPT --config DCPT_Gate
 This repo is based on [OSTrack](https://github.com/botaoye/OSTrack) and [PyTracking](https://github.com/visionml/pytracking) library which are excellent works and help us to quickly implement our ideas.
 
 
-## Citation
-If our work is useful for your research, please consider citing:
-
-```Bibtex
-@article{zhu2023dcpt,
-  title={DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs},
-  author={Zhu, Jiawen and Tang, Huayi and Cheng, Zhi-Qi and He, Jun-Yan and Luo, Bin and Qiu, Shihao and Li, Shengming and Lu, Huchuan},
-  journal={arXiv preprint arXiv:2309.10491},
-  year={2023}
-}
-```
 ## Contact
 If you have any question, feel free to email huayit1@uci.edu.
