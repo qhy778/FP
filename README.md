@@ -23,9 +23,6 @@ Google Driver
 <left><img width="100%" alt="" src="assets/results_2.png"/></left>
 <left><img width="100%" alt="" src="assets/results_3.png"/></left>
 
-### Attributed-Based Analysis
-<left><img width="100%" alt="" src="assets/results_4.png"/></left>
-
 ## Presentation Demo
 
 ## Usage
